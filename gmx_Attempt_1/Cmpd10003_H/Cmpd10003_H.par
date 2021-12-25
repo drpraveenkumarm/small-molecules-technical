@@ -1,0 +1,119 @@
+* ---- 
+* Built parameters for Cmpd10003_H.mol2 
+*    by user vzoete     Fri Dec 24 17:20:38 UTC 2021 
+* ---- 
+*
+
+BONDS
+HCMM CB    381.853     1.0840 
+CB   CB    401.068     1.3740 
+CB   NRP   312.837     1.4500 
+HNRP NRP   443.528     1.0280 
+NRP  C=O   302.258     1.5000 
+C=O  O=C   931.963     1.2220 
+CB   SMMF  256.560     1.7650 
+HCMM CR    342.991     1.0930 
+SMMF CR    208.198     1.8050 
+CR   CR    306.432     1.5080 
+CR   SO2   234.466     1.7720 
+SO2  CB    236.121     1.7700 
+SO2  O2CM  773.493     1.4500 
+CB   CLMM  243.102     1.7210 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   NRP    74.125    116.4230 
+CB   CB   SMMF   54.334    121.0370 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   SO2    74.053    113.9910 
+CB   CB   CLMM   68.367    118.4950 
+CB   SMMF CR    103.559    97.1110 
+SMMF CR   CR     53.470    107.3970 
+SMMF CR   HCMM   41.452    109.6090 
+CR   CR   HCMM   45.770    110.5490 
+HCMM CR   HCMM   37.134    108.8360 
+CR   CR   SO2    78.658    109.3150 
+SO2  CR   HCMM   47.713    106.8550 
+CB   SO2  CR     88.806    101.0700 
+CB   SO2  O2CM  107.733    105.2800 
+CR   SO2  O2CM  104.062    107.0660 
+O2CM SO2  O2CM  112.914    120.9240 
+CB   NRP  C=O   112.914    120.9240 
+CB   NRP  HNRP   51.599    108.6680 
+C=O  NRP  HNRP   51.599    108.6680 
+HNRP NRP  HNRP   41.596    107.7870 
+NRP  C=O  O=C    71.966    120.0000 
+NRP  C=O  NRP    71.966    120.0000 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   SMMF CR       1.089  2   180.00 
+CB   NRP  C=O  O=C      0.000  1     0.00 
+CB   NRP  C=O  NRP      0.000  1     0.00 
+CB   CB   NRP  C=O      0.000  1     0.00 
+CB   CB   NRP  HNRP     0.000  1     0.00 
+CB   SMMF CR   CR       0.200  3     0.00 
+CB   SMMF CR   HCMM     0.230  3     0.00 
+CB   CB   CB   SMMF     3.500  2   180.00 
+CB   CB   CB   NRP      3.500  2   180.00 
+CB   SO2  CR   CR       0.050  3     0.00 
+CB   SO2  CR   HCMM     0.050  3     0.00 
+CB   CB   SO2  CR      -0.600  2   180.00 
+CB   CB   SO2  CR      -0.150  3     0.00 
+CB   CB   SO2  O2CM    -0.086  1     0.00 
+CB   CB   SO2  O2CM    -0.482  2   180.00 
+CB   CB   SO2  O2CM    -0.305  3     0.00 
+CB   CB   CB   CLMM     3.500  2   180.00 
+CB   CB   CB   SO2      3.500  2   180.00 
+SMMF CB   CB   NRP      3.500  2   180.00 
+SMMF CB   CB   HCMM     3.500  2   180.00 
+SMMF CR   CR   SO2      0.150  3     0.00 
+SMMF CR   CR   HCMM     0.571  1     0.00 
+SMMF CR   CR   HCMM    -0.322  2   180.00 
+SMMF CR   CR   HCMM     0.183  3     0.00 
+CR   CR   SO2  O2CM     0.050  3     0.00 
+SO2  CB   CB   HCMM     3.500  2   180.00 
+SO2  CR   CR   HCMM     0.150  3     0.00 
+O2CM SO2  CR   HCMM     0.292  2   180.00 
+O2CM SO2  CR   HCMM     0.194  3     0.00 
+CLMM CB   CB   HCMM     3.500  2   180.00 
+NRP  CB   CB   HCMM     3.500  2   180.00 
+NRP  C=O  NRP  HNRP     0.000  1     0.00 
+O=C  C=O  NRP  HNRP     0.000  1     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+
+IMPROPER
+CB   NRP  CB   CB       2.519  0     0.00 
+CB   SMMF CB   CB       1.799  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+CR   CR   SMMF HCMM     0.000  0     0.00 
+CR   HCMM SMMF HCMM     0.000  0     0.00 
+CR   SO2  CR   HCMM     0.000  0     0.00 
+CR   HCMM CR   HCMM     0.000  0     0.00 
+SO2  CB   CR   O2CM     0.000  0     0.00 
+CB   CB   SO2  CB       2.519  0     0.00 
+CB   CB   CB   CLMM     2.519  0     0.00 
+NRP  C=O  CB   HNRP     0.000  0     0.00 
+NRP  HNRP CB   HNRP     0.000  0     0.00 
+C=O  NRP  NRP  O=C      9.356  0     0.00 
+NRP  CB   C=O  HNRP     0.000  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+SMMF    0.000000  -0.450000     2.000000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+SO2     0.000000  -0.470000     2.100000    
+O2CM    0.000000  -0.120000     1.700000    
+CLMM    0.000000  -0.260000     2.040000    
+NRP     0.000000  -0.200000     1.850000    
+C=O     0.000000  -0.110000     2.000000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+HNRP    0.000000  -0.046000     0.224500    
+HCMM    0.000000  -0.022000     1.320000    
+
+
